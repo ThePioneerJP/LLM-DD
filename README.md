@@ -2,7 +2,8 @@
 [創薬チャレンジ](https://github.com/souyakuchan/LLM_DD_Challenge)・提出用。
 
 ## LLM利用内容
-[こちら](https://chat.openai.com/share/0872a226-5de3-408b-a8c6-e04eecdf68a9)。時間が取れるかわからないのでいったん早期の試行錯誤の内容をそのまま提出。
+[こちら](https://chat.openai.com/share/0872a226-5de3-408b-a8c6-e04eecdf68a9)。
+最終日までに追加で時間が取れるかわからないので、いったん4月時点での早期の試行錯誤の内容をそのまま提出。
 
 ## smiles
 ```

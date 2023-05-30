@@ -3,7 +3,8 @@
 
 ## LLM利用内容
 [こちら](https://chat.openai.com/share/0872a226-5de3-408b-a8c6-e04eecdf68a9)。
-最終日までに追加で時間が取れるかわからないので、いったん4月時点での早期の試行錯誤の内容をそのまま提出。
+- 最終日までに追加で時間が取れるかわからないので、いったん4月時点での早期の試行錯誤の内容をそのまま提出。
+- 簡易的な確認は[この方法](https://github.com/souyakuchan/LLM_DD_Challenge/discussions/1#discussioncomment-5494950)で一応行っている。プログラムを自作して確認する、などといった手法は取っていない。
 
 ## smiles
 ```
